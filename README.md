@@ -1,3 +1,4 @@
 # ionic-text-to-speech
-It is a text-to-speech plug-in for **Ionic**. <br>
-The plugin is not implemented by me but here I demonstrates the use of this plug-in.
+It is a **Text-to-Speech plug-in** for **Cordova**. <br>
+The plug-in is not implemented by me but here I demonstrates the use of this plug-in in an **Ionic** project.
+Link of the orignial plug-in: https://github.com/vilic/cordova-plugin-tts
