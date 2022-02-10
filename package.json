@@ -28,7 +28,7 @@
     "bufferutil": "^4.0.1",
     "cordova-android": "^8.1.0",
     "cordova-plugin-tts": "file:cordova-plugin-tts",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "rxjs": "~6.5.1",
     "tslib": "^1.10.0",
     "utf-8-validate": "^5.0.2",
